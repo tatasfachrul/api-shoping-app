@@ -19,5 +19,5 @@ class OrdersSchema extends Schema {
     this.drop('orders')
   }
 }
-//1546061200108_orders_schema.js
+//1546061218635_orders_schema.js
 module.exports = OrdersSchema
