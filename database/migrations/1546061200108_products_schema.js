@@ -19,4 +19,5 @@ class ProductsSchema extends Schema {
   }
 }
 
+// 1546061191012_products_schema.js
 module.exports = ProductsSchema
